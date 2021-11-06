@@ -1,0 +1,2 @@
+rootProject.name = "Breath_Training_10_26"
+include ':app'
